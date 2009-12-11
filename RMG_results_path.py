@@ -5,3 +5,4 @@ RMGworkingDir="/Volumes/Rainier/RMG3/WorkingFolders/dieselWithOOH/"
 RMGworkingDir="/Users/rwest/XCodeProjects/RMG/ExampleWorkFolder/"
 
 RMGworkingDir = "chemF"
+
